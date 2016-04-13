@@ -39,7 +39,7 @@ T-CNN is released under the MIT License.
 2. [GNU Parallel](http://www.gnu.org/software/parallel/)
 3. [matutils](https://github.com/myfavouritekk/matutils)
 4. [FCN tracker](https://github.com/scott89/FCNT)
-5. `Matlab` with python [engine](http://www.mathworks.com/help/matlab/matlab-engine-for-python.html?refresh=true)
+5. `MATLAB R2014b or later` with python [engine](http://www.mathworks.com/help/matlab/matlab-engine-for-python.html?refresh=true)
 
 ### Instructions
 1. Clone the repository and sub-repositories from GitHub, let `$TCNN_ROOT` represents the root directory of the repository.
