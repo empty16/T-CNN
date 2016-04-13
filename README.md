@@ -74,6 +74,7 @@ T-CNN is released under the MIT License.
 1. Extract the sample data and still-image detection results
 
     ```bash
+        $ mv $TCNN_ROOT/data/sample_data.zip $TCNN_ROOT
         $ cd $TCNN_ROOT
         $ unzip sample_data.zip -d data/
     ```
